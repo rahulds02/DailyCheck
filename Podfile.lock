@@ -1,0 +1,20 @@
+PODS:
+  - SlideMenuControllerSwift (4.0.0)
+  - SpinningIndicator (0.1.5)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift
+  - SpinningIndicator
+
+SPEC REPOS:
+  trunk:
+    - SlideMenuControllerSwift
+    - SpinningIndicator
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  SpinningIndicator: 2f3a8b1f3aa23fc68b513231c9421872959df6df
+
+PODFILE CHECKSUM: 117d7f34d266c812d1d54ddfa00441d976ba6cd3
+
+COCOAPODS: 1.9.0
